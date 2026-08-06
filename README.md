@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 ## Brainteaser
 |  |
 | ------- |
@@ -65,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -90,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
