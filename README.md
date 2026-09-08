@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 ## Zero-Sum Game
 |  |
