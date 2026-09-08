@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0018-4sum) |
+| [0143-reorder-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 ## Zero-Sum Game
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
