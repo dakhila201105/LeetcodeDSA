@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 ## Zero-Sum Game
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3310-remove-methods-from-project) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
