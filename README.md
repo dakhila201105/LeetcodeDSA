@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 ## String
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0231-power-of-two) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
