@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 ## Two Pointers
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0460-lfu-cache) |
 | [0500-keyboard-row](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0500-keyboard-row](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Math
 |  |
 | ------- |
