@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0447-number-of-boomerangs](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0454-4sum-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1406-stone-game-iii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0447-number-of-boomerangs](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0454-4sum-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0454-4sum-ii) |
 ## String
 |  |
 | ------- |
