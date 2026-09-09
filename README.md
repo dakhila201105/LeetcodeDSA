@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0460-lfu-cache) |
 ## String
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0460-lfu-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
