@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0500-keyboard-row](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
