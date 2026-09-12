@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1406-stone-game-iii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1406-stone-game-iii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0460-lfu-cache) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
