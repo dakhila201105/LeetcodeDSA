@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
