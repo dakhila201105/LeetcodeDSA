@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0228-summary-ranges) |
 | [0447-number-of-boomerangs](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0454-4sum-ii) |
