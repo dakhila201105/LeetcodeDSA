@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0447-number-of-boomerangs](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
@@ -243,15 +245,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/dakhila201105/LeetcodeDSA/tree/master/2553-separate-the-digits-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
