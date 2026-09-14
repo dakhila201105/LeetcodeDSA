@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0447-number-of-boomerangs](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0447-number-of-boomerangs) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 | [3870-count-commas-in-range](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3870-count-commas-in-range) |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
