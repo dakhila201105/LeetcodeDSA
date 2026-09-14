@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [2784-check-if-array-is-good](https://github.com/dakhila201105/LeetcodeDSA/tree/master/2784-check-if-array-is-good) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0447-number-of-boomerangs](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0500-keyboard-row](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
