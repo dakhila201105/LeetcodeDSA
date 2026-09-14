@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0047-permutations-ii) |
+| [0401-binary-watch](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0401-binary-watch) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0401-binary-watch) |
 ## Matrix
 |  |
 | ------- |
