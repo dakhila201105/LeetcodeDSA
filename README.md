@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/dakhila201105/LeetcodeDSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/dakhila201105/LeetcodeDSA/tree/master/2784-check-if-array-is-good) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1406-stone-game-iii) |
+| [3524-find-x-value-of-array-i](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3871-count-commas-in-range-ii) |
 ## Brainteaser
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1406-stone-game-iii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
