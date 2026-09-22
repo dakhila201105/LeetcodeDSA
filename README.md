@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0292-nim-game) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
+| [0096-unique-binary-search-trees](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
 | [0338-counting-bits](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0877-stone-game) |
@@ -267,12 +269,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Geometry
 |  |
