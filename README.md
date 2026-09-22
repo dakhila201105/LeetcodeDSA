@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0228-summary-ranges) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0143-reorder-list) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [2784-check-if-array-is-good](https://github.com/dakhila201105/LeetcodeDSA/tree/master/2784-check-if-array-is-good) |
@@ -286,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
