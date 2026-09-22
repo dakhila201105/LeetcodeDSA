@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0389-find-the-difference) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0231-power-of-two) |
