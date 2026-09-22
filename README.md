@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0134-gas-station](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0228-summary-ranges) |
 | [0447-number-of-boomerangs](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0447-number-of-boomerangs) |
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
