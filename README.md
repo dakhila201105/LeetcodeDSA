@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
