@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0389-find-the-difference) |
+| [1096-brace-expansion-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [2784-check-if-array-is-good](https://github.com/dakhila201105/LeetcodeDSA/tree/master/2784-check-if-array-is-good) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0047-permutations-ii) |
 | [0401-binary-watch](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0460-lfu-cache) |
 | [0500-keyboard-row](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1096-brace-expansion-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [2784-check-if-array-is-good](https://github.com/dakhila201105/LeetcodeDSA/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0500-keyboard-row](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1096-brace-expansion-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -233,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
