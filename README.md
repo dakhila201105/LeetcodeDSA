@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/dakhila201105/LeetcodeDSA/tree/master/2784-check-if-array-is-good) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3524-find-x-value-of-array-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1096-brace-expansion-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [2784-check-if-array-is-good](https://github.com/dakhila201105/LeetcodeDSA/tree/master/2784-check-if-array-is-good) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -249,10 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0401-binary-watch) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0036-valid-sudoku) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
