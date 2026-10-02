@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0133-clone-graph](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0389-find-the-difference) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3310-remove-methods-from-project) |
@@ -207,12 +209,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0133-clone-graph) |
 | [1096-brace-expansion-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0133-clone-graph) |
 | [3310-remove-methods-from-project](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3310-remove-methods-from-project) |
 ## Linked List
 |  |
