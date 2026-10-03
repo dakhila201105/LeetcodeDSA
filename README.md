@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0169-majority-element) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0112-path-sum) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0079-word-search) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Floyd's Cycle Finding Algorithm
 |  |
