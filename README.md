@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0066-plus-one) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0096-unique-binary-search-trees) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/dakhila201105/LeetcodeDSA/tree/master/0079-word-search) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/dakhila201105/LeetcodeDSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Floyd's Cycle Finding Algorithm
